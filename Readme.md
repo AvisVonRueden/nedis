@@ -1,5 +1,5 @@
 
-# Nedis
+*#Nedis
 
   Nedis is a (partial) redis implementation written with node. Primarily for fun.
 
@@ -9,7 +9,7 @@
 
 ## Trying It Out
 
- Since nedis implements the unified redis prototcol, we can use `redis-cli` with nedis! First start the server:
+ Since nedis implements the unified redis prototcol, we can use `redis-cli` with nedis* First start the server:
 
      $ nedis-server
 
@@ -71,4 +71,4 @@ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
